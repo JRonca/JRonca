@@ -1,0 +1,20 @@
+  .div {
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: wrap;
+    align-items: center;
+  }
+  
+  .languages, .technologies {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .languages-icons, .technologys-icons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+  }
