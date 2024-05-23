@@ -82,10 +82,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JRonca&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/JRonca/JRonca/output/snake.svg" alt="Snake animation" />
 
 ###
