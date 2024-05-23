@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é José Renato sou um desenvolvedor Back-end, apaixonado por computação, meus principais interesses são Hacking, teoria da computação, sistemas opercionais, cloud e low level.<br><br>Além de dominar e trabalhar com novas tecnologias sou fascinado por entender como as coisas funcionam debaixo dos panos, o que me permite enxergar problemas que ocorrem nos níveis mais altos de abstração com outros olhos.</p>
+<p align="left">Meu nome é José Renato sou um desenvolvedor Back-end, apaixonado por computação, meus principais interesses são Hacking, teoria da computação, sistemas operacionais, cloud e low level.<br><br>Além de dominar e trabalhar com novas tecnologias sou fascinado por entender como as coisas funcionam debaixo dos panos, o que me permite enxergar problemas que ocorrem nos níveis mais altos de abstração com outros olhos.</p>
 
 ###
 
