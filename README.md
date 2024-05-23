@@ -2,9 +2,15 @@
 
 ###
 
-<p align="left">Meu nome é José Renato sou um desenvolvedor Back-end, apaixonado por computação, meus principais interesses são Hacking, teoria da computação, sistemas operacionais, cloud e low level.<br><br>Além de dominar e trabalhar com novas tecnologias sou fascinado por entender como as coisas funcionam debaixo dos panos, o que me permite enxergar problemas que ocorrem nos níveis mais altos de abstração com outros olhos.</p>
+<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHd1bDBoMDRsdmI0b3prMGtwMXN4eGdtNDZhazJ4YTJxejJheHc1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif"  />
 
 ###
+
+<p align="left">Meu nome é José Renato sou um desenvolvedor Back-end, apaixonado por computação, meus principais interesses são Hacking, teoria da computação, sistemas opercionais, cloud e low level.<br><br>Além de dominar e trabalhar com novas tecnologias sou fascinado por entender como as coisas funcionam debaixo dos panos, o que me permite enxergar problemas que ocorrem nos níveis mais altos de abstração com outros olhos.</p>
+
+###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JRonca&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -86,6 +92,12 @@
   <a href="https://www.linkedin.com/in/jronca/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/JRonca/count.svg?"  />
 </div>
 
 ###
