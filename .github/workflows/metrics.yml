@@ -23,5 +23,5 @@ jobs:
           plugin_languages_ignored: >-
             html, css, Objective-C, Ruby, Starlark, Handlebars, tex, less, makefile, qmake, lex, cmake,
             gnuplot
-          plugin_languages_details: bytes-size, lines,  percentage
+          plugin_languages_details: lines, bytes-size
           plugin_languages_limit: 8
