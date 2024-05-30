@@ -22,7 +22,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: >-
             html, css, Objective-C, Ruby, Starlark, Handlebars, tex, less, makefile, qmake, lex, cmake,
-            gnuplot
+            gnuplot, TSX
           plugin_languages_indepth: yes
           plugin_languages_details: lines, bytes-size
           plugin_languages_limit: 8
