@@ -89,10 +89,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img align="center" src="metrics.plugin.languages.details.svg" alt="Metrics" align="center" width="600" heigth="400"/>
-</div>
-
 ###
 
 <h2 align="center">📞 Contato</h2>
