@@ -82,11 +82,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JRonca&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
   
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JRonca/JRonca/output/snake.svg" alt="Snake animation" />
+</div>
+
+<br clear="both">
+
 <div align="center">
   <img align="center" src="metrics.plugin.languages.details.svg" alt="Metrics" align="center" width="600" heigth="400"/>
 </div>
-
-<img src="https://raw.githubusercontent.com/JRonca/JRonca/output/snake.svg" alt="Snake animation" />
 
 ###
 
