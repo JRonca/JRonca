@@ -6,7 +6,8 @@
 
 ###
 
-<p align="left">Meu nome é José Renato sou um desenvolvedor Back-end, apaixonado por computação, meus principais interesses são Hacking, teoria da computação, sistemas opercionais, cloud e low level.<br><br>Além de dominar e trabalhar com novas tecnologias sou fascinado por entender como as coisas funcionam debaixo dos panos, o que me permite enxergar problemas que ocorrem nos níveis mais altos de abstração com outros olhos.</p>
+<p align="left">My name is José Renato, and I am a Backend Developer passionate about computing. My main interests include hacking, computer science theory, operating systems, cloud computing, and low-level systems.
+Beyond working with and mastering modern technologies, I am fascinated by understanding how things work under the hood. This allows me to approach problems at higher levels of abstraction with a different perspective.</p>
 
 ###
 
